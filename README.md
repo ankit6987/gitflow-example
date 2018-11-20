@@ -29,7 +29,7 @@ Push new branch to remote repository git checkout develop git push origin develo
 
 Clone a repository
 
-git clone https://github.com/bharatdwarkani/gitflow-example </br>
+git clone https://github.com/ankit6987/gitflow-example.git </br>
 cd gitflow-example </br>
 git checkout develop </br>
 git flow init</br>
